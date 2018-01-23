@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<purchaseOrder>
+	<currency>string</currency>
+	<sendingCompanyCode>string</sendingCompanyCode>
+	<supplierBusinessPartner>string</supplierBusinessPartner>
+	<PODate>string</PODate>
+	<quantity>string</quantity>
+	<amount>string</amount>
+	<paymentTerms>string</paymentTerms>
+	<shortText>string</shortText>
+	<PurchaseOrder>4500017020</PurchaseOrder>
+</purchaseOrder>

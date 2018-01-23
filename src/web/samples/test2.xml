@@ -1,0 +1,12 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <tns:purchaseOrder xsi:schemaLocation="http://www.XX.com/PO.xsd " xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tns="http://www.XX.com/PO">
+ <tns:PurchaseOrder>4500017020</tns:PurchaseOrder>
+ <tns:SendingCompanyCode>8100</tns:SendingCompanyCode>
+ <tns:SupplierBusinessPartner>1000200 â€“ General Supplier Blockchain</tns:SupplierBusinessPartner>
+ <tns:Currency>GBP</tns:Currency>
+ <tns:PODate>2018-01-15</tns:PODate>
+ <tns:Quantity>10</tns:Quantity>
+ <tns:Amount>50</tns:Amount>
+ <tns:PaymentTerm>NT30</tns:PaymentTerm>
+ <tns:ShortText>Services 100-200</tns:ShortText>
+ </tns:purchaseOrder>
